@@ -70,7 +70,7 @@
         <commons-codec.version>1.13</commons-codec.version>
         <commons-text.version>1.8</commons-text.version>
         <commons-collections4.version>4.4</commons-collections4.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
 
         <guava.version>28.1-jre</guava.version>
 
